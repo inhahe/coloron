@@ -1,7 +1,7 @@
 # coloron
 coloron - small script to send all messages to particular channels in particular colors for mIRC
 
-to use:\
+to use:
 
 copy the contents of remote.ini into your own remote.ini (you can click on the scroll icon in mIRC for scripts and click on the 'remote' tab and paste the contents)
 
